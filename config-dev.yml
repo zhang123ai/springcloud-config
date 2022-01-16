@@ -1,2 +1,4 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=10"
+  info: "bus master branch,springcloud-config/config-dev.yml version=11"
+  port: "123456"
+  
